@@ -90,3 +90,4 @@ Quarter 4: October - December
 There will be occasions where some quarters are missing. For example, in the output above is missing `quarter 4`. That is because on their website calendar, they haven't finalized quarter 4 categories that will attribute to the 5% cash back (at the time of this writing). Therefore, my code will neglect that quarter.
 
 See the [source code](https://github.com/JinwookKim/cc-scraper) for more details.
+yolo
